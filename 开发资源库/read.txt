@@ -1,1 +1,2 @@
-������Դ��
+# 这是一个快捷方式
+<a href="https://github.com/kennycaiguo/LearnPhp/tree/master/PHP%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9Apdf%2B%E5%A4%9A%E5%AA%92%E4%BD%93%E5%85%89%E7%9B%98%EF%BC%88%E7%AC%AC4%E7%89%88%EF%BC%89/%E5%BC%80%E5%8F%91%E8%B5%84%E6%BA%90%E5%BA%93">开发资源库</a>
